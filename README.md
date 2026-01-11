@@ -44,7 +44,7 @@ This project is a Streamlit web application designed to analyze traffic violatio
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/Vinay1608m/Smart-Traffic-Violation-Pattern-Detector.git
+    git clone https://github.com/Vanshika-2606/Smart-Traffic-Violation-Pattern-Detector.git
     cd smart-traffic-violation-pattern-detector
     ```
 
@@ -139,3 +139,4 @@ The main dependencies for this project are listed in the `pyproject.toml` file. 
 
 
 ---
+
